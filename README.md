@@ -1,5 +1,8 @@
-# sea_on_chain_voting
+## On-chain voting
 
-This project was created by Seahorse 0.1.3.
+This project is inspired from Anchor's on-chain-voting program example.  
+Link: https://examples.anchor-lang.com/docs/onchain-voting
 
-To get started, just add your code to **programs_py/sea_on_chain_voting.py** and run `seahorse build`.
+The program is built with Seahorse. Seahorse lets you write Solana programs in python.
+
+To get started, clone the repo and run `seahorse build` command.
